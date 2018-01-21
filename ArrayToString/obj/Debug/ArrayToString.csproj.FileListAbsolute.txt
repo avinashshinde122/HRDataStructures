@@ -1,0 +1,5 @@
+D:\HRPractice\HRDataStructures\ArrayToString\bin\Debug\ArrayToString.exe.config
+D:\HRPractice\HRDataStructures\ArrayToString\bin\Debug\ArrayToString.exe
+D:\HRPractice\HRDataStructures\ArrayToString\bin\Debug\ArrayToString.pdb
+D:\HRPractice\HRDataStructures\ArrayToString\obj\Debug\ArrayToString.exe
+D:\HRPractice\HRDataStructures\ArrayToString\obj\Debug\ArrayToString.pdb
