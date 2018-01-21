@@ -1,0 +1,6 @@
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\bin\Debug\_2DArray.exe.config
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\bin\Debug\_2DArray.exe
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\bin\Debug\_2DArray.pdb
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\obj\Debug\_2DArray.exe
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\obj\Debug\_2DArray.pdb
+D:\HRPractice\HRDataStructures\HRDataStructures\2DArray\obj\Debug\2DArray.csprojResolveAssemblyReference.cache
